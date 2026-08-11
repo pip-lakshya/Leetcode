@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pip-lakshya/Leetcode/tree/master/0169-majority-element) |
 | [1140-stone-game-ii](https://github.com/pip-lakshya/Leetcode/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pip-lakshya/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Minimax
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pip-lakshya/Leetcode/tree/master/0169-majority-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pip-lakshya/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pip-lakshya/Leetcode/tree/master/0169-majority-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pip-lakshya/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
