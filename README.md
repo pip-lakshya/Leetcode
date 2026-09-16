@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/pip-lakshya/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/pip-lakshya/Leetcode/tree/master/0050-powx-n) |
+| [0836-rectangle-overlap](https://github.com/pip-lakshya/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/pip-lakshya/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/pip-lakshya/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pip-lakshya/Leetcode/tree/master/1563-stone-game-v) |
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pip-lakshya/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/pip-lakshya/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
