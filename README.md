@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/pip-lakshya/Leetcode/tree/master/0051-n-queens) |
 | [0169-majority-element](https://github.com/pip-lakshya/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pip-lakshya/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0835-image-overlap](https://github.com/pip-lakshya/Leetcode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/pip-lakshya/Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/pip-lakshya/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/pip-lakshya/Leetcode/tree/master/1563-stone-game-v) |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/pip-lakshya/Leetcode/tree/master/0836-rectangle-overlap) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/pip-lakshya/Leetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
