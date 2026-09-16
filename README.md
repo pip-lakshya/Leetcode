@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/pip-lakshya/Leetcode/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pip-lakshya/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/pip-lakshya/Leetcode/tree/master/0051-n-queens) |
 | [0169-majority-element](https://github.com/pip-lakshya/Leetcode/tree/master/0169-majority-element) |
 | [1140-stone-game-ii](https://github.com/pip-lakshya/Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/pip-lakshya/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pip-lakshya/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pip-lakshya/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/pip-lakshya/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
