@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/pip-lakshya/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0835-image-overlap](https://github.com/pip-lakshya/Leetcode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/pip-lakshya/Leetcode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/pip-lakshya/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/pip-lakshya/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/pip-lakshya/Leetcode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pip-lakshya/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/pip-lakshya/Leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/pip-lakshya/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Stack
 |  |
 | ------- |
@@ -246,4 +248,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/pip-lakshya/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/pip-lakshya/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/pip-lakshya/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/pip-lakshya/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
