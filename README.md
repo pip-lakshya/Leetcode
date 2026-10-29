@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pip-lakshya/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pip-lakshya/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/pip-lakshya/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pip-lakshya/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/pip-lakshya/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/pip-lakshya/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pip-lakshya/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pip-lakshya/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pip-lakshya/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pip-lakshya/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pip-lakshya/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/pip-lakshya/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pip-lakshya/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pip-lakshya/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pip-lakshya/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pip-lakshya/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3525-find-x-value-of-array-ii](https://github.com/pip-lakshya/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pip-lakshya/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/pip-lakshya/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pip-lakshya/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pip-lakshya/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pip-lakshya/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -252,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/pip-lakshya/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pip-lakshya/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -260,4 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/pip-lakshya/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pip-lakshya/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pip-lakshya/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
