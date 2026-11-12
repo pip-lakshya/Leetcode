@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pip-lakshya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/pip-lakshya/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/pip-lakshya/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pip-lakshya/Leetcode/tree/master/1563-stone-game-v) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pip-lakshya/Leetcode/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/pip-lakshya/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/pip-lakshya/Leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pip-lakshya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pip-lakshya/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pip-lakshya/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pip-lakshya/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
