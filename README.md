@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pip-lakshya/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/pip-lakshya/Leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/pip-lakshya/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pip-lakshya/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pip-lakshya/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pip-lakshya/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/pip-lakshya/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/pip-lakshya/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pip-lakshya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
