@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/pip-lakshya/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/pip-lakshya/Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pip-lakshya/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pip-lakshya/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pip-lakshya/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pip-lakshya/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/pip-lakshya/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/pip-lakshya/Leetcode/tree/master/1872-stone-game-viii) |
 | [1882-process-tasks-using-servers](https://github.com/pip-lakshya/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pip-lakshya/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pip-lakshya/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/pip-lakshya/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pip-lakshya/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pip-lakshya/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pip-lakshya/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pip-lakshya/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pip-lakshya/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pip-lakshya/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/pip-lakshya/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pip-lakshya/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/pip-lakshya/Leetcode/tree/master/3886-sum-of-sortable-integers) |
