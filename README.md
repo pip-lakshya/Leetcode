@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pip-lakshya/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pip-lakshya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pip-lakshya/Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/pip-lakshya/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/pip-lakshya/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pip-lakshya/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pip-lakshya/Leetcode/tree/master/0217-contains-duplicate) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pip-lakshya/Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/pip-lakshya/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/pip-lakshya/Leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/pip-lakshya/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2032-two-out-of-three](https://github.com/pip-lakshya/Leetcode/tree/master/2032-two-out-of-three) |
