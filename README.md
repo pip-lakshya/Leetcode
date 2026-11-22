@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pip-lakshya/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/pip-lakshya/Leetcode/tree/master/1872-stone-game-viii) |
 | [1882-process-tasks-using-servers](https://github.com/pip-lakshya/Leetcode/tree/master/1882-process-tasks-using-servers) |
+| [2032-two-out-of-three](https://github.com/pip-lakshya/Leetcode/tree/master/2032-two-out-of-three) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pip-lakshya/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/pip-lakshya/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/pip-lakshya/Leetcode/tree/master/2747-count-zero-request-servers) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/pip-lakshya/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pip-lakshya/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pip-lakshya/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2032-two-out-of-three](https://github.com/pip-lakshya/Leetcode/tree/master/2032-two-out-of-three) |
 | [2747-count-zero-request-servers](https://github.com/pip-lakshya/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pip-lakshya/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pip-lakshya/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/pip-lakshya/Leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/pip-lakshya/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2032-two-out-of-three](https://github.com/pip-lakshya/Leetcode/tree/master/2032-two-out-of-three) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pip-lakshya/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pip-lakshya/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pip-lakshya/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
