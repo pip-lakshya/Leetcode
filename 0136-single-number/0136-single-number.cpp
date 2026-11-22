@@ -1,18 +1,14 @@
+
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int n=nums.size();
-        stack<int>st;
-        sort(nums.begin(),nums.end());
-        for(int num:nums){
-            if(st.empty()){
-                st.push(num);
-            }else if(num==st.top()){
-                st.pop();
-            }else{
-                return st.top();
-            }
+
+        int ans = 0;
+
+        for (int i = 0; i < nums.size(); i++) {
+            ans = ans ^ nums[i];
         }
-        return st.top();
+
+        return ans;
     }
 };
