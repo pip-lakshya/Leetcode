@@ -1,18 +1,37 @@
 class Solution {
 public:
-    vector<int> twoOutOfThree(vector<int>& nums1, vector<int>& nums2, vector<int>& nums3) {
-        unordered_map<int, bitset<3>> present; // tracks which arrays contain each number
+    vector<int> twoOutOfThree(vector<int>& nums1, vector<int>& nums2, vector<int>& nums3) 
+    {
+        vector <bool> arr1 (101) ; 
+        for (auto x : nums1)
+        arr1[x] = true ;
 
-        for (int x : nums1) present[x].set(0);
-        for (int x : nums2) present[x].set(1);
-        for (int x : nums3) present[x].set(2);
+        vector <bool> arr2 (101) ; 
+        for (auto x : nums2)
+        arr2[x] = true  ; 
 
-        vector<int> result;
-        for (auto& [num, bits] : present) {
-            if (bits.count() >= 2) {
-                result.push_back(num);
-            }
+        vector <bool> arr3 (101) ; 
+        for (auto x : nums3)
+        arr3[x] = true ; 
+
+        vector <int> ans ; 
+        int count = 0 ; 
+
+        for (int i = 1 ; i < 101 ; i++)
+        {
+            if (arr1[i])
+            count++; 
+            if (arr2[i])
+            count++ ; 
+            if (arr3[i])
+            count++ ;
+
+            if (count > 1)
+            ans.push_back(i) ; 
+
+            count = 0 ; 
         }
-        return result;
+
+        return ans ; 
     }
 };
